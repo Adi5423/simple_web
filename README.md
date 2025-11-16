@@ -106,5 +106,3 @@ You can freely edit:
 You may freely use, modify, and extend this template.
 
 ---
-
-Need more sections like **dark/light mode**, **animated backgrounds**, **SVG waves**, or **3D cards**? Just ask!
